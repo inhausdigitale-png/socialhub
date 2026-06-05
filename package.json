@@ -1,0 +1,9 @@
+{
+  "name": "social-hub-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Social Hub Studio Vercel deployment.",
+  "dependencies": {
+    "openai": "^4.73.1"
+  }
+}
